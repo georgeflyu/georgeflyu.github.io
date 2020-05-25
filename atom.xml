@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://georgeflyu.GitHub.io</id>
     <title>George_Blog</title>
-    <updated>2020-05-25T03:09:06.423Z</updated>
+    <updated>2020-05-25T07:20:54.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://georgeflyu.GitHub.io"/>
     <link rel="self" href="https://georgeflyu.GitHub.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://georgeflyu.GitHub.io/images/avatar.png</logo>
     <icon>https://georgeflyu.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, George_Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[我荒废的今日，正是昨日殒身之人祈求的明日]]></title>
+        <id>https://georgeflyu.GitHub.io/post/wo-huang-fei-de-jin-ri-zheng-shi-zuo-ri-yun-shen-zhi-ren-qi-qiu-de-ming-ri/</id>
+        <link href="https://georgeflyu.GitHub.io/post/wo-huang-fei-de-jin-ri-zheng-shi-zuo-ri-yun-shen-zhi-ren-qi-qiu-de-ming-ri/">
+        </link>
+        <updated>2020-05-25T07:09:16.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="乔帮主曾说">乔帮主曾说：</h1>
+<p>Your time is limited, so don't waste it living someone else's life.<br>
+你的时间有限，所以不要浪费时间去过别人的生活。<br>
+<img src="https://s314.siliconimg.com/kb/content_images/2015/03/23/746982/1427090065_537.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[代码改变世界]]></title>
         <id>https://georgeflyu.GitHub.io/post/dai-ma-gai-bian-shi-jie/</id>
