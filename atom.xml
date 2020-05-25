@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://georgeflyu.GitHub.io</id>
     <title>George_Blog</title>
-    <updated>2020-05-25T07:20:54.833Z</updated>
+    <updated>2020-05-25T07:23:44.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://georgeflyu.GitHub.io"/>
     <link rel="self" href="https://georgeflyu.GitHub.io/atom.xml"/>
@@ -23,15 +23,17 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[代码改变世界]]></title>
+        <title type="html"><![CDATA[编程改变世界]]></title>
         <id>https://georgeflyu.GitHub.io/post/dai-ma-gai-bian-shi-jie/</id>
         <link href="https://georgeflyu.GitHub.io/post/dai-ma-gai-bian-shi-jie/">
         </link>
         <updated>2020-03-04T11:11:35.000Z</updated>
         <content type="html"><![CDATA[<p>package main<br>
-import &quot;fmt&quot;<br>
+import (<br>
+&quot;fmt&quot;<br>
+)<br>
 func main() {<br>
-fmt.Printf(&quot;Hello World\n&quot;)<br>
+fmt.Println(&quot;hello world&quot;)<br>
 }</p>
 ]]></content>
     </entry>
